@@ -1,0 +1,10 @@
+e:\users\eylon\documents\visual studio 2015\Projects\Lab_4\Lab_4\bin\Debug\Lab_4.dll
+e:\users\eylon\documents\visual studio 2015\Projects\Lab_4\Lab_4\bin\Debug\Lab_4.pdb
+e:\users\eylon\documents\visual studio 2015\Projects\Lab_4\Lab_4\obj\Debug\Lab_4.csprojResolveAssemblyReference.cache
+e:\users\eylon\documents\visual studio 2015\Projects\Lab_4\Lab_4\obj\Debug\Lab_4.dll
+e:\users\eylon\documents\visual studio 2015\Projects\Lab_4\Lab_4\obj\Debug\Lab_4.pdb
+E:\מכללת אורט בראודה\סמסטר ה\מבוא לבדיקות תכנה\מעבדות\מעבדה 3\פתרון\Lab_4\Lab_4\bin\Debug\Lab_4.dll
+E:\מכללת אורט בראודה\סמסטר ה\מבוא לבדיקות תכנה\מעבדות\מעבדה 3\פתרון\Lab_4\Lab_4\bin\Debug\Lab_4.pdb
+E:\מכללת אורט בראודה\סמסטר ה\מבוא לבדיקות תכנה\מעבדות\מעבדה 3\פתרון\Lab_4\Lab_4\obj\Debug\Lab_4.csprojResolveAssemblyReference.cache
+E:\מכללת אורט בראודה\סמסטר ה\מבוא לבדיקות תכנה\מעבדות\מעבדה 3\פתרון\Lab_4\Lab_4\obj\Debug\Lab_4.dll
+E:\מכללת אורט בראודה\סמסטר ה\מבוא לבדיקות תכנה\מעבדות\מעבדה 3\פתרון\Lab_4\Lab_4\obj\Debug\Lab_4.pdb
