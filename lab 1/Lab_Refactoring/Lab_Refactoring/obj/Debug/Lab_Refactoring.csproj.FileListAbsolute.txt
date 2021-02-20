@@ -1,0 +1,12 @@
+D:\temp\Lab_Refactoring\Lab_Refactoring\bin\Debug\Lab_Refactoring.exe.config
+D:\temp\Lab_Refactoring\Lab_Refactoring\bin\Debug\Lab_Refactoring.exe
+D:\temp\Lab_Refactoring\Lab_Refactoring\bin\Debug\Lab_Refactoring.pdb
+D:\temp\Lab_Refactoring\Lab_Refactoring\obj\Debug\Lab_Refactoring.csprojResolveAssemblyReference.cache
+D:\temp\Lab_Refactoring\Lab_Refactoring\obj\Debug\Lab_Refactoring.exe
+D:\temp\Lab_Refactoring\Lab_Refactoring\obj\Debug\Lab_Refactoring.pdb
+E:\מכללת אורט בראודה\סמסטר ה\מבוא לבדיקות תכנה\מעבדות\מעבדה 1\Lab_Refactoring\Lab_Refactoring\bin\Debug\Lab_Refactoring.exe.config
+E:\מכללת אורט בראודה\סמסטר ה\מבוא לבדיקות תכנה\מעבדות\מעבדה 1\Lab_Refactoring\Lab_Refactoring\obj\Debug\Lab_Refactoring.exe
+E:\מכללת אורט בראודה\סמסטר ה\מבוא לבדיקות תכנה\מעבדות\מעבדה 1\Lab_Refactoring\Lab_Refactoring\obj\Debug\Lab_Refactoring.pdb
+E:\מכללת אורט בראודה\סמסטר ה\מבוא לבדיקות תכנה\מעבדות\מעבדה 1\Lab_Refactoring\Lab_Refactoring\bin\Debug\Lab_Refactoring.exe
+E:\מכללת אורט בראודה\סמסטר ה\מבוא לבדיקות תכנה\מעבדות\מעבדה 1\Lab_Refactoring\Lab_Refactoring\bin\Debug\Lab_Refactoring.pdb
+E:\מכללת אורט בראודה\סמסטר ה\מבוא לבדיקות תכנה\מעבדות\מעבדה 1\Lab_Refactoring\Lab_Refactoring\obj\Debug\Lab_Refactoring.csprojResolveAssemblyReference.cache
